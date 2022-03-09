@@ -1,4 +1,4 @@
-## Olá! Eu sou o Cralos 👋
+## Olá! Eu sou o Carlos 👋
 Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solicinar problemas.
 Virtudes: Paciência e humildade.
 
