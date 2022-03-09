@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Cralos 👋
 👨👩 Social
 
+
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.geekhunter.com.br/6-blogs-de-programacao-que-todo-desenvolvedor-deve-conhecer/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PmefpISZ7Ew)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/login/)
@@ -10,9 +11,8 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlossbezerra)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossbezerra&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&theme=blue-green)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossbezerra&show_icons=true&theme=radical)](https://github.com/carlossbezerra)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&theme=blue-green)](https://github.com/carlossbezerra)
 
 ## Tecnologias que eu uso no meu dia dia.!!
 🚀 Skills
