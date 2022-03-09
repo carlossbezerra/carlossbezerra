@@ -32,6 +32,8 @@ Virtudes: Paciência e humildade.
 </div><br/>
 
 
+![gifs-animados-street-fighter-1093002](https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif)
+
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
