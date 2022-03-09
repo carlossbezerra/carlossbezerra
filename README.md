@@ -1,4 +1,7 @@
 ## Olá! Eu sou o Cralos 👋
+Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solicinar problemas.
+Virtudes: Paciência e humildade.
+
 👨👩 Social
 
 
@@ -26,8 +29,9 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  
 </div><br/>
+
+
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
