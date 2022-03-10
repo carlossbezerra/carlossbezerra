@@ -32,10 +32,10 @@ Virtudes: Paciência e humildade.
 </div><br/>
 
 
+
 ![gifs-animados-street-fighter-1093002](https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif)
 
-[![Build Status](https://dev.azure.com/btholt/bootcamp/_apis/build/status/btholt.bootcamp)](https://dev.azure.com/btholt/bootcamp/_build/latest?definitionId=2)
-[![GitHub Deployment Badge](https://vsrm.dev.azure.com/btholt/_apis/public/Release/badge/55cc037f-434a-43f1-bfa9-7ed68aa22f42/1/1)](https://dev.azure.com/btholt/bootcamp/_releases2)
+
 
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
