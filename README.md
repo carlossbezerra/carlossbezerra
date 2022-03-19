@@ -2,7 +2,7 @@
 
 
 ## Olá! Eu sou o Carlos 👋
-Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solicinar problemas.
+Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solucionar problemas.
 Virtudes: Paciência e humildade.
 
 👨👩 Social
