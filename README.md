@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="200px" align="right">
 
 
 ## Olá! Eu sou o Carlos 👋
