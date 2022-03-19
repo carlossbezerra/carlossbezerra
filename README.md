@@ -31,7 +31,7 @@ Virtudes: Paciência e humildade.
 
 <a href="https://github.com/carlossbezerra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&theme=gruvbox&hide_border=true_https://github.com/carlossbezerra"/>
-  
+    
 </a>
 
 ## Tecnologias que eu uso no meu dia dia.!!
@@ -49,17 +49,9 @@ Virtudes: Paciência e humildade.
 </div><br/>
 
 
-
-![gifs-animados-street-fighter-1093002](https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif) = 
-
-
-
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.   
 
  ![Snake animation](https://github.com/carlossbezerra/carlossbezerra/blob/output/github-contribution-grid-snake.svg)
  
- 
- 
- ![1_KBGdMaU_emZX4XR1AvkD4A](https://user-images.githubusercontent.com/92475408/158076692-6522f5fd-72c7-4eed-87f9-d7b610eda924.gif)
-
+ <img src="https://user-images.githubusercontent.com/92475408/158076692-6522f5fd-72c7-4eed-87f9-d7b610eda924.gif" min-width="500px" max-width="600px" width="500px" align="left">
+<img src="https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif" min-width="400px" max-width="300px" width="400px" align="right">
