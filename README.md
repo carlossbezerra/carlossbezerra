@@ -1,3 +1,6 @@
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 ## Olá! Eu sou o Carlos 👋
 Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solicinar problemas.
 Virtudes: Paciência e humildade.
