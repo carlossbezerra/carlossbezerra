@@ -54,4 +54,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
  ![Snake animation](https://github.com/carlossbezerra/carlossbezerra/blob/output/github-contribution-grid-snake.svg)
  
  <img src="https://user-images.githubusercontent.com/92475408/158076692-6522f5fd-72c7-4eed-87f9-d7b610eda924.gif" min-width="500px" max-width="400px" width="500px" align="left">
-<img src="https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif" min-width="350px" max-width="300px" width="350px" align="right">
+<img src="https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif" min-width="320px" max-width="300px" width="320px" align="right">
