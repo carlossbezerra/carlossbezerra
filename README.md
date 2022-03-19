@@ -13,9 +13,23 @@ Virtudes: Paciência e humildade.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-g-584b7868)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlossbezerra)
 
+## **GitHub Estatísticas**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossbezerra&show_icons=true&theme=radical)](https://github.com/carlossbezerra)
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&theme=blue-green)](https://github.com/carlossbezerra)
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=carlossbezerra&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossbezerra&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![Carlos Bezerra ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=carlossbezerra&custom_title=Carlos%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+
+<a href="https://github.com/carlossbezerra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&theme=gruvbox&hide_border=true_https://github.com/carlossbezerra"/>
+  
+</a>
 
 ## Tecnologias que eu uso no meu dia dia.!!
 🚀 Skills
