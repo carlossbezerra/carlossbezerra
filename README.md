@@ -1,57 +1,65 @@
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="300px" align="right">
 
 
-## Olá! Eu sou o Carlos 👋
-Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solucionar problemas.
-Virtudes: Paciência e humildade.
+## Olá! Bem vindos 👋
+Meu nome e Carlos </> Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solucionar problemas, sempre busco me especializar e buscar oportunidade de colocar em prática tudo que aprendo no meu dia-dia.
+Virtudes: Paciência, humildade e Foco.
 
-👨👩 Social
+<br>
+<br>
+<br>
 
+<h5 align="center">Tecnologia</h5>
 
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.geekhunter.com.br/6-blogs-de-programacao-que-todo-desenvolvedor-deve-conhecer/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PmefpISZ7Ew)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/login/)
-[![Twitch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoicHQifQ%3D%3D%22%7D)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-g-584b7868)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlossbezerra)
+<div align="left">
+  <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+</div>
 
-## **GitHub Estatísticas**
+<h4 align="center">Contatos</h4>
 
-<br/>
+<div align="center">
+  <a href = "mailto:developercagb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://https://www.linkedin.com/in/carlos-augusto-g-584b7868/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://wa.me/5592993201241"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  <a href="https://www.instagram.com/tecnicgb/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/carlossbezerra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/carlos.goncalvesbezerra/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=PmefpISZ7Ew"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
+
+<h4 align="center">Mais usados</h4>
+
+<div align="center">
+  <p>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&show_icons=true&layout=compact&theme=github_dark" />
+  </p>
+</div>
+
+![animation](https://komarev.com/ghpvc/?username=carlossbezerra=blue&style=flat)
+
 <p align="left">
    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=carlossbezerra&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossbezerra&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
-
-![Carlos Bezerra ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=carlossbezerra&custom_title=Carlos%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
-<a href="https://github.com/carlossbezerra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&theme=gruvbox&hide_border=true_https://github.com/carlossbezerra"/>
-    
-</a>
-
-## Tecnologias que eu uso no meu dia dia.!!
-🚀 Skills
-
-<div style="display: inline_block">
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div><br/>
 
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.   
 
  ![Snake animation](https://github.com/carlossbezerra/carlossbezerra/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
  
  <img src="https://user-images.githubusercontent.com/92475408/158076692-6522f5fd-72c7-4eed-87f9-d7b610eda924.gif" min-width="500px" max-width="400px" width="500px" align="left">
 <img src="https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif" min-width="300px" max-width="400px" width="300px" align="right">
