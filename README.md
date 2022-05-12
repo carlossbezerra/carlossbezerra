@@ -40,8 +40,8 @@ Virtudes: Paciência, humildade e Foco.
 
 <div>
 <a href="https://github.com/carlossbezerra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&show_icons=true&layout=compact&theme=github_dark" />
-    <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossbezerra&theme=gruvbox&hide_border=dark" /> 
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&show_icons=true&layout=compact&theme=github_dark" />
+    <img width="360em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossbezerra&theme=gruvbox&hide_border=dark" /> 
 </div>
  
  <br>
