@@ -38,22 +38,14 @@ Virtudes: Paciência, humildade e Foco.
 
 <h4 align="center">Mais usados</h4>
 
-<div align="center">
-  <p>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&show_icons=true&layout=compact&theme=github_dark" />
-  </p>
+<div>
+<a href="https://github.com/carlossbezerra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossbezerra&show_icons=true&layout=compact&theme=github_dark" />
+    <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossbezerra&theme=gruvbox&hide_border=dark" /> 
 </div>
-
-![animation](https://komarev.com/ghpvc/?username=carlossbezerra=blue&style=flat)
-
-<p align="left">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=carlossbezerra&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=carlossbezerra&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
-
-
+ 
+ <br>
+ <br>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.   
 
