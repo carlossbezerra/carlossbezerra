@@ -5,6 +5,8 @@
 Meu nome e Carlos </> Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solucionar problemas, sempre busco me especializar e buscar oportunidade de colocar em prática tudo que aprendo no meu dia-dia.
 Virtudes: Paciência, humildade e Foco.
 
+https://carlossbezerra.github.io/
+
 <br>
 <br>
 <br>
