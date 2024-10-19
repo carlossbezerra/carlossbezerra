@@ -12,7 +12,7 @@ https://carlossbezerra.github.io/
 
 <h5 align="center">Tecnologia</h5>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
