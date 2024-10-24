@@ -1,8 +1,12 @@
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="300px" align="right">
+## Bem vindo, é um prazer ter você no meu perfil! 😄
 
-## Olá! Bem vindos 👋
-Meu nome e Carlos </> Ciêntista e Desenvolvedor Front-End, criativo, gosto de desafios, trabalhar em grupo, ajudar no que for preciso para solucionar problemas, sempre busco me especializar e buscar oportunidade de colocar em prática tudo que aprendo no meu dia-dia.
-Virtudes: Paciência, humildade e Foco.
+<div align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B70F5&&center=true&Center=truewidth=100%&lines=Oi+me+chamo+Carlos+Augusto;Tenho+46+anos.;Sou+desenvolvedor+Front-End+!;)](https://git.io/typing-svg)
+ <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="300px" align="right">
+</div>
+
+
 
 https://carlossbezerra.github.io/
 
