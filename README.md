@@ -53,8 +53,11 @@ https://carlossbezerra.github.io/
 <br>
 <br>
   
-<img src="https://user-images.githubusercontent.com/92475408/158076692-6522f5fd-72c7-4eed-87f9-d7b610eda924.gif" min-width="1000px" max-width="100px" width="1000px" align="center">
-<img src="https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif" min-width="1000px" max-width="400px" width="1000px" align="center">
+<img src="https://user-images.githubusercontent.com/92475408/158076692-6522f5fd-72c7-4eed-87f9-d7b610eda924.gif" min-width="-100px" max-width="-100px" width="-500px" align="left">
+<img src="https://user-images.githubusercontent.com/92475408/157522414-a2017a93-be0c-4e97-b2d3-0bcd333c2e6b.gif" min-width="100px" max-width="100px" width="1000px" align="right">
+
+
+
   
   
 
