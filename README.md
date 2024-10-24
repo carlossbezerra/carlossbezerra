@@ -6,8 +6,6 @@
  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="300px" align="right">
 </div>
 
-
-
 https://carlossbezerra.github.io/
 
 <br>
@@ -15,7 +13,9 @@ https://carlossbezerra.github.io/
 <br>
 
 <h5 align="center">Tecnologia</h5>
-
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
