@@ -6,7 +6,7 @@
  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="300px" align="right">
 </div>
 
-https://carlossbezerra.github.io/
+https://meu-portiflio-carlosdev.netlify.app/
 
 <br>
 <br>
