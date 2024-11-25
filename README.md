@@ -2,7 +2,7 @@
 
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B70F5&&center=true&Center=truewidth=100%&lines=Oi+me+chamo+Carlos+Augusto;Tenho+46+anos.;Sou+desenvolvedor+Front-End+!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B70F5&&center=true&Center=truewidth=100%&lines=Oi+me+chamo+Carlos+Augusto;Tenho+46+anos.;Sou+Desenvolvedor+Front-End;Apaixonado+por+tecnologia+!;)](https://git.io/typing-svg)
  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="200px" max-width="200px" width="300px" align="right">
 </div>
 
